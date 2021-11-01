@@ -1,0 +1,201 @@
+.principal {
+	background-image:url(poze/fon1.jpg) ;
+	background-position: 95% 95%;
+	background-size: cover;
+    width: 100%;
+    height: 750px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.principal2 {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+.red {
+	font-size: 100px ;
+	font-weight: 900;
+	letter-spacing: 1px;
+	color: black;
+	box-shadow: 10px 10px 30px black;
+
+}
+.gren {
+	font-size: 50px;
+	font-weight: 500;
+
+}
+.color {
+	color: black;
+
+}
+.navigare {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: silver;
+	box-shadow: 10px 10px 50px black;
+}
+.navigare span{
+	margin: 20px;
+}
+.navigare span .logo {
+	font-size: 50px;
+	color:gold;
+	font-weight: 700;
+	margin-right: 400px;
+
+}
+.navigare span a {
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+.navigare span .acte {
+	font-size: 30px;
+	font-weight: 700;
+	color: black;
+
+
+}
+.zag {
+	font-size: 50px;
+	font-weight: 600;
+}
+.text {
+	margin-top:100px;
+	display: flex;
+	flex-direction: row;
+}
+.sec
+{
+margin-top: 55px;
+}
+.test {
+	background-image:url(poze/fon2.jpg) ;
+	background-position: 50% 50% ;
+	background-size: cover;
+	width: 650px;
+	height: 500px ;
+}
+.test2 {
+	display: flex;
+	flex-direction: column;
+	background-color: black;
+	color: white;
+	width: 650px;
+	height: 440px;
+	padding-left: 60px;
+	padding-top: 60px;
+
+}
+.test2_first {
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 60px;
+}
+.test2_second {
+	font-size:30px ;
+}
+.test2_third {
+	font-size: 30px;
+	font-weight: 700;
+}
+.test3 {
+	background-image: url(poze/fon3.jpg);
+	background-size: cover;
+	width: 650px;
+	height: 500px;
+	background-position: 50% 50%;
+}
+.principal3 {
+	display: flex;
+	flex-direction: row;
+	position: relative;
+
+}
+.principal4 {
+	background: red;
+	width:20% ;
+	display: flex;
+	flex-direction: row;
+	align-items: center; /*de sus in jos*/ 
+	justify-content: space-between; /*din drapta-n stinga*/
+	padding: 10px 10px;
+	position: absolute; 
+	right: 8px;
+	top:1593px;
+}
+.name {
+	font-size: 30px;
+	font-weight: 600;
+	color: white;
+}
+.position {
+	font-size: 20px;
+	color: white;
+}
+.sageti .fa-angle-left{
+	font-size: 30px;
+	background: #490611;
+	color: red;
+	padding: 5px 13px ;
+	border-radius: 50% ;
+}
+.sageti .fa-angle-right {
+	font-size: 30px;
+	background:#490611 ;
+	color: red;
+	padding: 5px 13px;
+	border-radius: 50%;
+}
+.porto {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.port {
+	font-size: 50px;
+	margin-top: 30px;
+}
+.principal6{
+	background-image: url(poze/fon4.jpg);
+	background-size: cover;
+	width: 400px;
+	height: 400px;
+	background-position: 50% 50%;
+
+}
+.textul {
+	font-size: 40px;
+	font-weight: 600;
+
+}
+.textul2 {
+	font-size: 30px;
+	font-weight: 600;
+	margin-top: 5px;
+	color: red;
+}
+.principal8{
+	background-image: url(poze/fon5.jpg);
+	background-size: cover;
+	width: 400px;
+	height: 400px;
+	margin-top: 40px;
+	background-position: 50% 50%;
+}
+.principal9{
+	background-image: url(poze/fon6.jpg);
+	background-size: cover;
+	width: 800px;
+	height: 926px;
+	background-position: 50% 50%;
+}
+.ultim {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
